@@ -1,0 +1,8 @@
+https://medium.com/sfu-cspmp/building-data-pipeline-kafka-docker-4d2a6cfc92ca
+
+https://medium.com/sfu-cspmp/building-data-pipeline-kafka-docker-4d2a6cfc92ca
+
+https://github.com/salcaino/sfucmpt733
+
+
+https://www.cloudsavvyit.com/14114/how-to-connect-to-localhost-within-a-docker-container/
