@@ -1,4 +1,4 @@
-CREATE TABLE weatherreport (
+CREATE TABLE weather (
                                forecastdate TIMESTAMP,
                                location TEXT,
                                description TEXT,
@@ -14,7 +14,7 @@ CREATE TABLE weatherreport (
                                PRIMARY KEY (location, forecastdate)
 );
 
-CREATE TABLE twitterdata (
+CREATE TABLE twitter (
                              tweet_date TIMESTAMP,
                              location TEXT,
                              tweet TEXT,

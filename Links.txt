@@ -6,3 +6,6 @@ https://github.com/salcaino/sfucmpt733
 
 
 https://www.cloudsavvyit.com/14114/how-to-connect-to-localhost-within-a-docker-container/
+
+
+https://thelastpickle.com/blog/2017/05/23/auto-bootstrapping-part1.html
